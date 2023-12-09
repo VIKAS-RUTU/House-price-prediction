@@ -3,6 +3,6 @@ This project discusses on predicting the house price based on various features o
 
 Files:
 
-Code -> House price prediction
+Code file -> House price prediction
 
-Source code -> train, test
+Source files -> train, test
